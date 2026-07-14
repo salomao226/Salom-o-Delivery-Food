@@ -1,0 +1,6 @@
+{
+  "name": "Delivery Moçambique",
+  "description": "Aplicativo de delivery para Moçambique com painel de administração integrado, gerenciamento de pedidos em Meticais, suporte a pagamentos M-Pesa/e-Mola, e assistente de negócios inteligente com Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
